@@ -3,6 +3,7 @@
 
 表格化数据合成
 数据类型：
+
 1.离散型数据变量 （example: 水果{apple, banana, watermelon}）
 2.时间型数据 (example: {start time:1999-5-30}, {end time:2002-4-4})
 3.个人信息类数据 (example: 电话，邮箱，地址等)
