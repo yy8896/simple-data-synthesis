@@ -16,6 +16,4 @@
 可支持以上类型数据的合成，帮助需要训练的模型扩充数据集，或者通过合成数据提供个人隐私数据保护
 
 
-
-定制其他类型数据或需要数据可通过email联系
-email: yy8896@ahnu.edu.cn/solityhon@gmail.com
+email: solityhon@gmail.com
